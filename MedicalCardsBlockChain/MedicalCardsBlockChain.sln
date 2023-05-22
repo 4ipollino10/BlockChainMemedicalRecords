@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalCardsBlockChain", "MedicalCardsBlockChain.csproj", "{7108F86D-7E07-4EBD-A099-813B2E892F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7108F86D-7E07-4EBD-A099-813B2E892F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7108F86D-7E07-4EBD-A099-813B2E892F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7108F86D-7E07-4EBD-A099-813B2E892F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7108F86D-7E07-4EBD-A099-813B2E892F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17EA7060-15F2-4934-9A12-FC96DDCDFB7A}
+	EndGlobalSection
+EndGlobal
